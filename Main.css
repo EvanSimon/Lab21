@@ -1,0 +1,13 @@
+.anything{
+    color: goldenrod;
+    font-family: 'Times New Roman', Times, serif;
+}
+a:link {
+    color: green; 
+    background-color: transparent; 
+    text-decoration: none;
+  }
+  
+  body{
+      color: blue;
+  }
